@@ -1,0 +1,28 @@
+ git remote -v
+  367  touch comandos.txt main.js index.html
+  368  ls
+  369  git status
+  370  git add .
+  371  git status
+  372  git commit -m Commit 01 de Jossue Nuel Arbieto Pasmiño
+  373  git push origin main
+  374  git fetch
+  375  git push origin main
+  376  git remote -v
+  377  git fetch
+  378  code .
+  379  git pull origin main
+  380  git push origin main
+  381  clear
+  382  git push origin main
+  383  git pull
+  384  ls
+  385  git reset --hard origin/branch-name~
+  386  clear
+  387  cd --
+  388  cd Documents/
+  389  ls
+  390  rm -r 05062023-JossueArbieto/
+  391  yes
+  392  cd Documents/
+
