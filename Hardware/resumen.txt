@@ -1,0 +1,1 @@
+Procesador Memoria-primaria Memoria-secundaria

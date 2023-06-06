@@ -1,0 +1,14 @@
+Inicializar repositorio
+git init
+
+De working diretory a Stagged:
+git add nombre_archivo
+
+De stagged a Guardado:
+git commit -m Mensaje descriptivo
+
+Conexion con repo remoto:
+git remote add nombre_repo_remoto direccion_repo_remoto
+
+Subir cambios a repo local:
+git push origin main
